@@ -1,0 +1,35 @@
+# ROLE: Senior Full-Stack Developer & UI/UX Designer
+
+Build a complete, professional e-commerce website in a single HTML file (HTML5 + CSS3 + JavaScript). No backend. Use realistic product data with public image URLs.
+
+## Core Features Required:
+- **Navbar:** Logo, navigation (Home/Shop/Categories/About/Contact), search bar, cart icon with badge, login/register
+- **Hero:** Promotional banner with CTA
+- **Categories:** Cards for Electronics, Fashion, Shoes, Accessories, Beauty, Home & Living
+- **Products:** Cards with image, name, rating, original/discounted price, discount %, Add to Cart, Buy Now, Wishlist
+- **Shopping Cart:** Add/remove, quantity controls, subtotal, total, clear cart
+- **Checkout:** Form (name/email/phone/address/city/state/pincode), payment method, order summary, place order
+- **Sections:** Flash Sale, Best Sellers, New Arrivals, Customer Reviews, Newsletter
+- **Footer:** About, quick links, support, privacy, terms, social icons, copyright
+
+## Functional Requirements (JavaScript):
+- Search products
+- Category filter
+- Price/rating sorting
+- Add/remove from cart with quantity controls
+- Cart total calculation
+- Wishlist toggle
+- Mobile hamburger menu
+- Checkout form validation
+- Order confirmation message
+
+## Design Standards:
+- Modern, premium UI with clean typography
+- Fully responsive (mobile/tablet/desktop)
+- Smooth hover animations & transitions
+- Professional color scheme
+- Accessible forms & buttons
+- Fast, lightweight performance
+
+## Deliverable:
+One complete `index.html` file with inline CSS and JS. No explanations—just working production-ready code. Make it look like a real business website, not a demo.
