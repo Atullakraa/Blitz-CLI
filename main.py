@@ -15,7 +15,7 @@ api_choice = input("┣━ Enter your choice (1 or 2): ")
 
 if api_choice == "1":
     gemini_API_KEY = "Your_Gemini_API_Key"  # Replace with your actual Gemini API key
-if api_choice == "2":
+elif api_choice == "2":
     openrouter_API_KEY = "Your_OpenRouter_API_Key"  # Replace with your openrouter API key
 
 if api_choice == "1":
@@ -34,7 +34,7 @@ if option == "1":
         print(f"┃ {model.name}")
     model_input = input("┣━ Enter the model name you want to use: ")
 
-if option == "2":
+elif option == "2":
     model_input = input("┣━ Enter the model name you want to use: ")  
 
 while True:
@@ -65,8 +65,3 @@ while True:
         total = response.usage.total_tokens
         print(f"┣━ Blitz: {response.choices[0].message.content}")
         print(f"┣━ Token Used: {total}")
-    
-
-    
-
-    
