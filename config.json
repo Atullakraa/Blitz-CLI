@@ -1,5 +1,5 @@
 {
-    "gemini_api_key": "Your_Gemini_API_Key_Here",
-    "openrouter_api_key": "Your_OpenRouter_API_Key_Here",
+    "gemini_api_key": "YOUR_GEMINI_API_KEY",
+    "openrouter_api_key": "YOUR_OPENROUTER_API_KEY",
     "max-token": 1000
 }
