@@ -1,4 +1,4 @@
-**Blitz-CLI**
+**Blitz-CLI**\n
 Blitz-CLI is a Python command-line AI assistant that supports ai models, with configurable system prompts and model selection.
 Currently Supports Ai models:
 1.gemini api key https://aistudio.google.com/apikey?utm_source=chatgpt.com
@@ -8,7 +8,7 @@ Currently Supports Ai models:
 ```
 git clone https://github.com/Atullakraa/Blitz-CLI.git
 cd Blitz-CLI
-pip install requirements.txt
+pip install -r requirements.txt
 python Blitz-CLI
 ```
 **config.json**
