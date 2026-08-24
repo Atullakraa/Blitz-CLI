@@ -1,7 +1,26 @@
 **Blitz-CLI**
-Currently Supports:
+Blitz-CLI is a Python command-line AI assistant that supports ai models, with configurable system prompts and model selection.
+Currently Supports Ai models:
 1.gemini api key https://aistudio.google.com/apikey?utm_source=chatgpt.com
 2.openrouter api key https://openrouter.ai/?utm_source=chatgpt.com
+
+**How to Install**
+```
+git clone https://github.com/Atullakraa/Blitz-CLI.git
+cd Blitz-CLI
+pip install requirements.txt
+python Blitz-CLI
+```
+**config.json**
+```
+{
+    "gemini_api_key": "your_gemini_api_key_here",
+    "openrouter_api_key": "your_openrouter_api_key_here",
+    "max-token": 1000
+}
+```
+gemini api key https://aistudio.google.com/apikey?utm_source=chatgpt.com
+openrouter api key https://openrouter.ai/?utm_source=chatgpt.com
 
 ***genai client***
 ```
