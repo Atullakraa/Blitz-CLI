@@ -60,7 +60,6 @@ print("┣━ 2. jailbreak_lite Mode")
 print("┣━ 3. jailbreak_adv Mode")
 mode_input = input("┣━ Enter your choice (1, 2, or 3): ")
 
-MODE_PROMPT = ""
 try:
     if mode_input == "1":
         with open('prompt/dev_prompt.txt', 'r', encoding='utf-8') as file:
