@@ -19,8 +19,8 @@ python Blitz-CLI
     "max-token": 1000
 }
 ```
-gemini api key https://aistudio.google.com/apikey?utm_source=chatgpt.com
-openrouter api key https://openrouter.ai/?utm_source=chatgpt.com
+Gemini api key https://aistudio.google.com/apikey?utm_source=chatgpt.com \
+Openrouter api key https://openrouter.ai/?utm_source=chatgpt.com \
 
 ***genai client***
 ```
